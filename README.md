@@ -1,14 +1,35 @@
-<h1 align="center">Hi 👋, I'm Nicoara Andrei Costin</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+
+# Hi 👋, I'm Nicoara Andrei Costin
+
+### Desciption
+As a software tester and hardware developer with a passion in frontend technologies, I am well-versed in a range of technologies such as JavaScript, CSS, HTML, Bootstrap, and Angular. With my expertise in these technologies, I design and develop intuitive, responsive, and visually appealing user interfaces.
+
+In addition to frontend development, I also have extensive experience working with Python and Arduino, which I use to automate tests, analyze data, and create scripts to improve workflow. I am proficient in using Figma to create high-fidelity mockups of my designs.
+
+As a software tester, I take a meticulous approach to ensure the software I develop meets the highest quality standards. I utilize various testing methodologies and tools to identify and fix bugs, working closely with the development team to ensure the software meets user needs.
+
+As a hardware developer, I use my experience with Arduino to create prototypes and conduct experiments to ensure that the hardware I develop meets user expectations.
+
+In summary, I am a highly skilled software tester and hardware developer with a passion for frontend technologies, and I am always striving to improve my skills and knowledge.
+
+## Profile sessions
+👩‍💻 I'm currently working on a **Responsive Ecomerce Website**
+
+🧠 I'm currently learning **Angular**
+
+⚡️ Latest projects : 
+- [Media articles (component)](https://github.com/diuand/Media-component)
+- [Instagram Posts (component)](https://github.com/diuand/Instagram-Advertisement-Component)
+- [ANAF Landing page](https://github.com/diuand/ANAF-landing-page)
+- [Multiple items and single item (component)](https://github.com/diuand/Multiple-items-and-single-item-Component)
+- [Footer (component)](https://github.com/diuand/Footer-Component)
+
+Component of the Project: [Angular Ecomerce Website](https://github.com/diuand/Angular-Ecomerce-Website) (Genius Nutrition complete clone)
+
+📫 How to reach me **nicoara.andrei98@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diuand&label=Profile%20views&color=0e75b6&style=flat" alt="diuand" /> </p>
-
-- 🔭 I’m currently working on a **Responsive Ecomerce Website**
-
-- 🌱 I’m currently learning **Angular**
-
-- 📫 How to reach me **nicoara.andrei98@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicoara-andrei-046973254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicoara-andrei-046973254" height="30" width="40" /></a>
