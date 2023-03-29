@@ -2,15 +2,11 @@
 # Hi 👋, I'm Nicoara Andrei Costin
 
 ### Desciption
-As a software tester and hardware developer with a passion in frontend technologies, I am well-versed in a range of technologies such as JavaScript, CSS, HTML, Bootstrap, and Angular. With my expertise in these technologies, I design and develop intuitive, responsive, and visually appealing user interfaces.
+I am a skilled software tester with experience in creating Python-based software to test developing boards. Using Git, I manage my work and collaborate with others. Additionally, I have expertise in hardware development and create boards and sensors in Kicad to be tested by myself.
 
-In addition to frontend development, I also have extensive experience working with Python and Arduino, which I use to automate tests, analyze data, and create scripts to improve workflow. I am proficient in using Figma to create high-fidelity mockups of my designs.
+In my free time, I have been working hard to become a front-end developer, and I have learned several skills in this field, including JavaScript, CSS, HTML, Bootstrap, and Angular. Although most of my work on Github isn't in Angular yet, I am currently learning this technology to expand my skillset.
 
-As a software tester, I take a meticulous approach to ensure the software I develop meets the highest quality standards. I utilize various testing methodologies and tools to identify and fix bugs, working closely with the development team to ensure the software meets user needs.
-
-As a hardware developer, I use my experience with Arduino to create prototypes and conduct experiments to ensure that the hardware I develop meets user expectations.
-
-In summary, I am a highly skilled software tester and hardware developer with a passion for frontend technologies, and I am always striving to improve my skills and knowledge.
+During my software development journey, I have also honed my soft skills, such as professional communication and the ability to explain complex coding concepts to my colleagues. I am passionate about learning and growing my skills, and I am always looking for new opportunities to challenge myself and contribute to exciting projects.
 
 ## Profile sessions
 👩‍💻 I'm currently working on a **Responsive Ecomerce Website**
