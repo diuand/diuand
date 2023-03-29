@@ -1,7 +1,6 @@
 
 # Hi 👋, I'm Nicoara Andrei Costin
 
-### Desciption
 I am a skilled software tester with experience in creating Python-based software to test developing boards. Using Git, I manage my work and collaborate with others. Additionally, I have expertise in hardware development and create boards and sensors in Kicad to be tested by myself.
 
 In my free time, I have been working hard to become a front-end developer, and I have learned several skills in this field, including JavaScript, CSS, HTML, Bootstrap, and Angular. Although most of my work on Github isn't in Angular yet, I am currently learning this technology to expand my skillset.
