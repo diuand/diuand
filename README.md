@@ -19,7 +19,6 @@ During my software development journey, I have also honed my soft skills, such a
 - [Multiple items and single item (component)](https://github.com/diuand/Multiple-items-and-single-item-Component)
 - [Footer (component)](https://github.com/diuand/Footer-Component)
 
-Component of the Project: [Angular Ecomerce Website](https://github.com/diuand/Angular-Ecomerce-Website) (Genius Nutrition complete clone)
 
 📫 How to reach me **nicoara.andrei98@gmail.com**
 
