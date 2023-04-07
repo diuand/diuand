@@ -7,6 +7,9 @@ In my free time, I have been working hard to become a front-end developer, and I
 
 During my software development journey, I have also honed my soft skills, such as professional communication and the ability to explain complex coding concepts to my colleagues. I am passionate about learning and growing my skills, and I am always looking for new opportunities to challenge myself and contribute to exciting projects.
 
+## Portfolio
+- [Live link](https://diuand.github.io/Portfolio/)
+- [Code](https://github.com/diuand/Portfolio)
 ## Profile sessions
 👩‍💻 I'm currently working on a **Responsive Ecomerce Website**
 
