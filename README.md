@@ -16,7 +16,7 @@ During my software development journey, I have also honed my soft skills, such a
 🧠 I'm currently learning **Angular**
 
 ⚡️ Latest projects : 
-- [Media articles (component)](https://github.com/diuand/Media-component)
+- [Ecomerce Website (In development)](https://github.com/diuand/Angular-Ecomerce-Website)
 - [Instagram Posts (component)](https://github.com/diuand/Instagram-Advertisement-Component)
 - [ANAF Landing page](https://github.com/diuand/ANAF-landing-page)
 - [Multiple items and single item (component)](https://github.com/diuand/Multiple-items-and-single-item-Component)
