@@ -17,10 +17,8 @@ During my software development journey, I have also honed my soft skills, such a
 
 ⚡️ Latest projects : 
 - [Ecomerce Website (In development)](https://github.com/diuand/Angular-Ecomerce-Website)
-- [Instagram Posts (component)](https://github.com/diuand/Instagram-Advertisement-Component)
+- [Portfolio](https://diuand.github.io/Portfolio/)
 - [ANAF Landing page](https://github.com/diuand/ANAF-landing-page)
-- [Multiple items and single item (component)](https://github.com/diuand/Multiple-items-and-single-item-Component)
-- [Footer (component)](https://github.com/diuand/Footer-Component)
 
 
 📫 How to reach me **nicoara.andrei98@gmail.com**
